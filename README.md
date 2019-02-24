@@ -1,4 +1,4 @@
-![graphic](https://raw.githubusercontent.com/OpenLauncherTeam/openlauncher/master/metadata/en-US/featureGraphic.png)
+![graphic](https://github.com/RehmatSinghGill/Ghost-Launcher/blob/master/GhostLauncher.png?raw=true)
 
 # OpenLauncher
 
