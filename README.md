@@ -1,17 +1,8 @@
 ![graphic](https://github.com/RehmatSinghGill/Ghost-Launcher/blob/master/GhostLauncher.png?raw=true)
 
-# OpenLauncher
+# Ghost Launcher
 
-This is an open source launcher project for Android devices that has been built completely from scratch. The main goal of this launcher is to find a healthy medium between customization and simplicity. At this point in time it implements most features required in a typical launcher but could benefit greatly from some general polish. If you would like to help out feel free to submit issues or ask about submitting a pull request with a feature you want to see in the launcher.
-
-<div style="display:flex;">
-<a href="https://f-droid.org/repository/browse/?fdid=com.benny.openlauncher">
-    <img height="80" alt="Get it on F-Droid" src="https://f-droid.org/badge/get-it-on.png">
-</a>
-<a href="https://play.google.com/store/apps/details?id=com.benny.openlauncher">
-    <img height="80" alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
-</a>
-</div>
+This is an open source launcher project for Android devices that has been built from F-Droid Open Source Launcher. The main goal of this launcher is to find a healthy medium between customization and simplicity. At this point in time it implements most features required in a typical launcher but could benefit greatly from some general polish. If you would like to help out feel free to submit issues or ask about submitting a pull request with a feature you want to see in the launcher.
 
 ## Description
 
